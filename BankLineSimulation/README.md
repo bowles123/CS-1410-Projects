@@ -1,3 +1,4 @@
 #Bank Line Simulation
 This program simulates a line at a bank including servicing, day ending, etc.
-- I received quite a bit of help on this assignment when I took the class and would like to try and re-work the problem to make the solution better
+- refactored original assignment for more modularity
+- the refactor allows for multiple simulations to run at the same time on separate thread, it's not implemented though
